@@ -1,0 +1,7 @@
+# 0-installation-script
+
+# Step 1: Installed Node.js manually
+# Downloaded from https://nodejs.org and installed version 20.16.0
+
+# Step 2: Installed SASS using npm
+npm install sass -v 3.7.4
